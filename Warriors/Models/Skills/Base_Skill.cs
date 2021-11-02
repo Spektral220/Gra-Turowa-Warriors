@@ -22,6 +22,10 @@ namespace Warriors.Models.Skills
         public void Dupa()
         {
             Console.WriteLine("dominik/kontrola");
+            while (true)
+            {
+                Console.WriteLine("dupa");
+            }
         }
     }
 }
