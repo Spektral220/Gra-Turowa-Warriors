@@ -18,5 +18,14 @@ namespace Warriors.Models.Skills
             Cost = cost;
             ExpAddedAfterUse = expAddedAfterUse;
         }
+
+        public void Dupa()
+        {
+            Console.WriteLine("dominik/kontrola");
+            while (true)
+            {
+                Console.WriteLine("dupa");
+            }
+        }
     }
 }
