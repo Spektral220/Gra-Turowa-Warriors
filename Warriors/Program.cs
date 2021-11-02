@@ -10,6 +10,9 @@ namespace Warriors
             game.Havoc();
             game.PrintResult();
             Console.WriteLine("Mój nowy commit");
+
+            Console.WriteLine("robimy w metodzie");
+            Console.WriteLine("dodałęm drugi coś");
         }
     }
 }
