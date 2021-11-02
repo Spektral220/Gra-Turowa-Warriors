@@ -9,6 +9,7 @@ namespace Warriors
             var game = new Logic.Game();
             game.Havoc();
             game.PrintResult();
+            Console.WriteLine("Mój commit");
         }
     }
 }
