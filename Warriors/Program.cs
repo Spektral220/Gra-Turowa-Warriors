@@ -12,6 +12,7 @@ namespace Warriors
             Console.WriteLine("Mój nowy commit");
 
             Console.WriteLine("robimy w metodzie");
+            Console.WriteLine("dodałęm drugi coś");
         }
     }
 }
